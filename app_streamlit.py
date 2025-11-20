@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 from stable_baselines3 import DQN
 
-st.title("TB Screening RL Demo")
+st.title("TB Screening RL Demo live")
 st.write("Fill patient features")
 
 # --------------------
