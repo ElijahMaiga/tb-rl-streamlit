@@ -1,0 +1,6 @@
+streamlit
+joblib
+numpy
+scikit-learn==1.7.2
+stable-baselines3
+gymnasium
